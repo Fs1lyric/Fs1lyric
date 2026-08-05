@@ -2,7 +2,6 @@
 
 <img width="100%" src="https://media1.tenor.com/m/amSnx8avHAAAAAAd/dante-devil-trigger.gif" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=750&lines=whoami+%3D+Fs1lyric;building+chess+engines+%26+fantasy+worlds;writer+-+martial+artist+-+engineer" alt="Typing SVG" />
 
 </div>
 
