@@ -9,7 +9,7 @@
 $ cat about.md
 name: Nabhan Lyric Chowdhury
 roles: [writer, martial artist, artist, engineer]
-currently: building a GitHub portfolio for college apps
+currently: making simulation projects
 novel: "Ink Eye" — Japanese-inspired fantasy, on WebNovel
 ```
 
