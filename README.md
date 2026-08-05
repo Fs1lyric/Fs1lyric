@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://media.tenor.com/R4zKVc1b-z0AAAAM/cs2-explosion.gif" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=whoami+%3D+%22Fs1lyric%22;building+chess+engines+%26+fantasy+worlds;writer+%C2%B7+martial+artist+%C2%B7+engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=whoami+%3D+Fs1lyric;building+chess+engines+%26+fantasy+worlds;writer+-+martial+artist+-+engineer" alt="Typing SVG" />
 
 </div>
 
