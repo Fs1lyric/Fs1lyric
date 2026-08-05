@@ -4,27 +4,27 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=E8E8E8&center=true&vCenter=true&width=750&lines=whoami+%3D+Fs1lyric;building+chess+engines+%26+fantasy+worlds;writer+-+martial+artist+-+engineer" alt="Typing SVG" />
 
-</div>
-
-<br>
-
-```
-$ cat about.md
-name       : Nabhan Lyric Chowdhury
-roles      : writer · martial artist · artist · engineer
-currently  : building a GitHub portfolio for college apps
-novel      : "Ink Eye" — Japanese-inspired fantasy, on WebNovel
-```
-
-<div align="center">
-
 <img src="https://komarev.com/ghpvc/?username=Fs1lyric&color=1a1a1a&style=flat-square&label=profile+views" />
 
 </div>
 
-<br>
+```bash
+Fs1lyric@github:~$ cat about.md
+┌─────────────────────────────────────────────────────────┐
+  name       Nabhan Lyric Chowdhury
+  roles      writer · martial artist · artist · engineer
+  currently  building a GitHub portfolio for college apps
+  novel      "Ink Eye" — Japanese-inspired fantasy, WebNovel
+└─────────────────────────────────────────────────────────┘
 
-<p align="center"><b>STACK</b></p>
+Fs1lyric@github:~$ cat stack.json
+{
+  "languages": ["python", "typescript"],
+  "frameworks": ["react", "pygame"],
+  "os": "linux",
+  "vcs": "git"
+}
+```
 
 <div align="center">
 
@@ -37,31 +37,32 @@ novel      : "Ink Eye" — Japanese-inspired fantasy, on WebNovel
 
 </div>
 
-<br>
+```bash
+Fs1lyric@github:~$ ls projects/
+```
 
-<p align="center"><b>PROJECTS</b></p>
-
-<table align="center">
+<table>
 <tr>
-<td width="50%" align="center">
+<td width="50%">
 
-**Portfolio**
-[live site →](https://fs1lyric.github.io/Fs1lyric1/)
+**`portfolio/`**
+React + Vite site, glassmorphism UI, interactive terminal widget.
+[`→ live`](https://fs1lyric.github.io/Fs1lyric1/) · [`→ source`](https://github.com/Fs1lyric/Fs1lyric1)
 
 </td>
-<td width="50%" align="center">
+<td width="50%">
 
-**Ink Eye**
-Japanese-inspired fantasy webnovel
-[read it →](https://www.webnovel.com/book/ink-eye_36125155608860405)
+**`ink-eye/`**
+Japanese-inspired fantasy webnovel — perception, ink, and looking away.
+[`→ read`](https://www.webnovel.com/book/ink-eye_36125155608860405)
 
 </td>
 </tr>
 </table>
 
-<br>
-
-<p align="center"><b>STATS</b></p>
+```bash
+Fs1lyric@github:~$ ./stats.sh --verbose
+```
 
 <div align="center">
 
@@ -72,7 +73,9 @@ Japanese-inspired fantasy webnovel
 
 </div>
 
-<br>
+```bash
+Fs1lyric@github:~$ git log --graph --all
+```
 
 <div align="center">
 
@@ -80,7 +83,9 @@ Japanese-inspired fantasy webnovel
 
 </div>
 
-<br>
+```bash
+Fs1lyric@github:~$ cat socials.txt
+```
 
 <div align="center">
 
