@@ -1,5 +1,8 @@
 <div align="center">
 
+<img width="100%" src="https://media1.tenor.com/m/amSnx8avHAAAAAAd/dante-devil-trigger.gif" />
+
+
   <!-- Animated Header with Typing Effect -->
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Nabhan+Lyric+Chowdhury;I+make+random+stuff;Martial+Arts+%7C+Writing+%7C+Reading;Coding+%7C+Engineering" alt="Typing SVG" />
 
