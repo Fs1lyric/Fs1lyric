@@ -6,7 +6,14 @@
 
 </div>
 
-```bash
+---
+### `Intro -- duction'
+
+
+<div align="center">
+
+
+
 $ cat about.md
 name: Nabhan Lyric Chowdhury
 roles: [writer, martial artist, artist, engineer]
