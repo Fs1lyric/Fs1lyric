@@ -1,89 +1,86 @@
 <div align="center">
 
-<img width="100%" src="https://media1.tenor.com/m/amSnx8avHAAAAAAd/dante-devil-trigger.gif" />
+  <!-- Animated Header with Typing Effect -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Nabhan+Lyric+Chowdhury;I+make+random+stuff;Martial+Arts+%7C+Writing+%7C+Reading;Coding+%7C+Engineering" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=750&lines=whoami+%3D+Fs1lyric;building+chess+engines+%26+fantasy+worlds;writer+-+martial+artist+-+engineer" alt="Typing SVG" />
+  <br />
 
-</div>
+  <!-- Monochrome Social Links -->
+  <a href="https://github.com/Fs1lyric">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.chess.com/member/fs1lyric">
+    <img src="https://img.shields.io/badge/Chess-181717?style=for-the-badge&logo=chess.com&logoColor=white" alt="Chess" />
+  </a>
+  <a href="https://discord.com/users/1467416211364249857">
+    <img src="https://img.shields.io/badge/Discord-181717?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://www.instagram.com/volksreader/">
+    <img src="https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 
-```bash
-$ cat about.md
-name: Nabhan Lyric Chowdhury
-roles: [writer, martial artist, artist, engineer]
-currently: building a GitHub portfolio for college apps
-novel: "Ink Eye" — Japanese-inspired fantasy, on WebNovel
-```
+  <br /><br />
 
-<div align="center">
+  <!-- Visitor Count -->
+  <img src="https://views.igorkowalczyk.dev/api/badge/Fs1lyric?style=flat-square&label=Profile+Views&color=000000" alt="Views" />
 
-![](https://komarev.com/ghpvc/?username=Fs1lyric&color=39FF14&style=flat-square&label=profile+views)
+  <br /><br />
 
-</div>
+  <!-- Stats Cards (Dark Theme for "Cracked" Look) -->
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Fs1lyric&show_icons=true&theme=github_dark&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=00ff00&bg_color=0d1117" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fs1lyric&layout=compact&theme=github_dark&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 
----
+  <br />
 
-### `stack --list`
+  <!-- Streak & Contributions -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fs1lyric&theme=github-dark&hide_border=true&background=0d1117" alt="Streak Stats" />
 
-<div align="center">
+  <br /><br />
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=39FF14)
-![TypeScript](https://img.shields.io/badge/TypeScript-14354C?style=for-the-badge&logo=typescript&logoColor=39FF14)
-![React](https://img.shields.io/badge/React-14354C?style=for-the-badge&logo=react&logoColor=39FF14)
-![Pygame](https://img.shields.io/badge/Pygame-14354C?style=for-the-badge&logo=pygame&logoColor=39FF14)
-![Linux](https://img.shields.io/badge/Linux-14354C?style=for-the-badge&logo=linux&logoColor=39FF14)
-![Git](https://img.shields.io/badge/Git-14354C?style=for-the-badge&logo=git&logoColor=39FF14)
+  <!-- 🐍 Snake Animation -->
+  <img src="https://github.com/Fs1lyric/Fs1lyric/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 
-</div>
+  <br /><br />
 
----
+  ## 🛠️ Tech Stack & Badges
 
-### `ls projects/`
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Engineering-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Engineering" />
 
-<table>
-<tr>
-<td width="50%">
+  <br /><br />
 
-**🌐 Portfolio**
-[`→ live site`](https://fs1lyric.github.io/Fs1lyric1/)
+  ## 🚀 Projects & Portfolio
 
-</td>
-<td width="50%">
+  <table>
+    <tr>
+      <td>
+        <h3>🌐 Personal Portfolio</h3>
+        <p>My official portfolio website showcasing my engineering and coding projects.</p>
+        <a href="https://fs1lyric.github.io/Fs1lyric1/">
+          <img src="https://img.shields.io/badge/Visit-Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+        </a>
+      </td>
+      <td>
+        <h3>📖 Ink Eye (Novel)</h3>
+        <p>My published novel on WebNovel. Dive into the story.</p>
+        <a href="https://www.webnovel.com/book/ink-eye_36125155608860405">
+          <img src="https://img.shields.io/badge/Read-Ink+Eye-000000?style=for-the-badge&logo=bookstack&logoColor=white" alt="Novel" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
-**📖 Ink Eye**
-Japanese-inspired fantasy webnovel, published on WebNovel.
-[`→ read it`](https://www.webnovel.com/book/ink-eye_36125155608860405)
+  <br />
 
-</td>
-</tr>
-</table>
-
----
-
-### `stats --show`
-
-<div align="center">
-
-<img height="165" src="https://helio-github-stats.vercel.app/api?username=Fs1lyric&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" />
-<img height="165" src="https://helio-github-stats.vercel.app/api/top-langs/?username=Fs1lyric&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9" />
-
-<img src="https://github-streak-stats-ruby.vercel.app/?user=Fs1lyric&theme=dark&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Fs1lyric/Fs1lyric/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-<div align="center">
-
-[![Discord](https://img.shields.io/badge/Discord-14354C?style=for-the-badge&logo=discord&logoColor=39FF14)](https://discord.com/users/1467416211364249857)
-[![Instagram](https://img.shields.io/badge/Instagram-14354C?style=for-the-badge&logo=instagram&logoColor=39FF14)](https://www.instagram.com/volksreader/)
-[![Chess.com](https://img.shields.io/badge/Chess.com-14354C?style=for-the-badge&logo=chess.com&logoColor=39FF14)](https://www.chess.com/member/fs1lyric)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=100&section=footer" />
 
 </div>
