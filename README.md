@@ -63,10 +63,10 @@ Japanese-inspired fantasy webnovel, published on WebNovel.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Fs1lyric&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fs1lyric&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9" />
+<img height="165" src="https://helio-github-stats.vercel.app/api?username=Fs1lyric&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" />
+<img height="165" src="https://helio-github-stats.vercel.app/api/top-langs/?username=Fs1lyric&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fs1lyric&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
+<img src="https://github-streak-stats-ruby.vercel.app/?user=Fs1lyric&theme=dark&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
 
 </div>
 
