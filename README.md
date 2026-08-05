@@ -1,11 +1,11 @@
 <div align="center">
 
-  <!-- 🎥 Animated Header (JetBrains Mono Font) -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Nabhan+Lyric+Chowdhury;I+make+random+stuff;Martial+Arts+%7C+Writing+%7C+Reading;Coding+%7C+Engineering" alt="Typing SVG" />
+  <!-- Animated Header with Typing Effect -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Nabhan+Lyric+Chowdhury;I+make+random+stuff;Martial+Arts+%7C+Writing+%7C+Reading;Coding+%7C+Engineering" alt="Typing SVG" />
 
   <br />
 
-  <!-- 🔗 Dark Monochrome Social Links -->
+  <!-- Monochrome Social Links -->
   <a href="https://github.com/Fs1lyric">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
   </a>
@@ -21,12 +21,12 @@
 
   <br /><br />
 
-  <!-- 👁️ Visitor Counter -->
+  <!-- Visitor Count -->
   <img src="https://views.igorkowalczyk.dev/api/badge/Fs1lyric?style=flat-square&label=Profile+Views&color=000000&labelColor=000000&textColor=FFFFFF" alt="Views" />
 
   <br /><br />
 
-  <!-- 📊 Heavy Stats Section -->
+  <!-- Stats Cards (Dark Theme for "Cracked" Look) -->
   <table>
     <tr>
       <td>
@@ -40,21 +40,25 @@
 
   <br />
 
-  <!-- 🔥 Streak Stats -->
+  <!-- Streak & Contributions -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fs1lyric&theme=github-dark&hide_border=true&background=0d1117&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="Streak Stats" />
 
   <br /><br />
 
-  <!-- 🐍 Snake Animation (Eating Heatmap) -->
-  <!-- Ensure the GitHub Action is running to generate this image -->
+  <!-- 🐍 Snake Animation -->
   <img src="https://github.com/Fs1lyric/Fs1lyric/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 
   <br /><br />
 
-  ## 🛠️ Tech Stack
+  ## 🛠️ Tech Stack & Badges
 
+  <!-- Monochrome C++ -->
   <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF" alt="C++" />
+  
+  <!-- Monochrome Python -->
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF" alt="Python" />
+  
+  <!-- Monochrome Engineering -->
   <img src="https://img.shields.io/badge/Engineering-000000?style=for-the-badge&logo=linux&logoColor=FFFFFF" alt="Engineering" />
 
   <br /><br />
@@ -65,7 +69,7 @@
     <tr>
       <td>
         <h3>🌐 Personal Portfolio</h3>
-        <p>My official portfolio website showcasing engineering and coding projects.</p>
+        <p>My official portfolio website showcasing my engineering and coding projects.</p>
         <a href="https://fs1lyric.github.io/Fs1lyric1/">
           <img src="https://img.shields.io/badge/Visit-Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=FFFFFF" alt="Portfolio" />
         </a>
@@ -82,7 +86,6 @@
 
   <br />
 
-  <!-- Footer Wave -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d1117&height=100&section=footer" />
 
 </div>   
