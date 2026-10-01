@@ -6,15 +6,15 @@ I write software that runs on your machine and stays there. Mostly Rust and Type
 
 Building
 odyssey-design  ·  Rust Tauri TypeScript
-A local-first desktop suite — documents, spreadsheets, decks, and a multi-track video editor. The timeline compiles the entire project into a single ffmpeg filter graph, so there are no intermediate renders and no scratch files. Keyframes lower to three different ffmpeg strategies depending on what the effect can express.
+A local-first desktop suite - documents, spreadsheets, decks, and a multi-track video editor. The timeline compiles the entire project into a single ffmpeg filter graph, so there are no intermediate renders and no scratch files. Keyframes lower to three different ffmpeg strategies depending on what the effect can express.
 
 55 effects · real cross-dissolves with handle consumption · vidstab two-pass stabilisation · audio ducking via sidechain compression · ~180 tests, many of which render real video and assert on sampled pixels
 
 tokenmeter  ·  TypeScript  ·  docs
-Know where your LLM spend actually goes. A local proxy that attributes every token to a model, a repo, and a branch — then fails CI when a pull request regresses cost. Nothing leaves your network.
+Know where your LLM spend actually goes. A local proxy that attributes every token to a model, a repo, and a branch - then fails CI when a pull request regresses cost. Nothing leaves your network.
 
 chess-engine-1600  ·  Engine
-A ~1600 ELO engine with a GUI board, move analysis, and recommendations. Built to run on minimal hardware — no engine binary to install, no server round-trip.
+A ~1600 ELO engine with a GUI board, move analysis, and recommendations. Built to run on minimal hardware - no engine binary to install, no server round-trip.
 
 nexus-video-editor  ·  Rust egui
 Single-track editor, CLI and GUI, wrapping ffmpeg for trim / arrange / export. The small predecessor that taught me what the timeline in Odyssey needed to become.
@@ -22,7 +22,7 @@ Single-track editor, CLI and GUI, wrapping ffmpeg for trim / arrange / export. T
 Stack
 <div align="center"> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=FFFFFF" alt="Rust" /> <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FFFFFF" alt="TypeScript" /> <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF" alt="C++" /> <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF" alt="Python" /> <br /> <img src="https://img.shields.io/badge/Tauri-000000?style=for-the-badge&logo=tauri&logoColor=FFFFFF" alt="Tauri" /> <img src="https://img.shields.io/badge/FFmpeg-000000?style=for-the-badge&logo=ffmpeg&logoColor=FFFFFF" alt="FFmpeg" /> <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=FFFFFF" alt="SQLite" /> <img src="https://img.shields.io/badge/Arch_Linux-000000?style=for-the-badge&logo=archlinux&logoColor=FFFFFF" alt="Arch Linux" /> </div>
 Away from the keyboard
-Ink Eye — my novel, published on WebNovel. Martial arts, chess, and an unreasonable number of books otherwise.
+Ink Eye - my novel, published on WebNovel. Martial arts, chess, and an unreasonable number of books otherwise.
 
 My favourite show is Dexter, btw.
 
