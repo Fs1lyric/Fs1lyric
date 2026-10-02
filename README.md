@@ -20,7 +20,7 @@ nexus-video-editor  ·  Rust egui
 Single-track editor, CLI and GUI, wrapping ffmpeg for trim / arrange / export. The small predecessor that taught me what the timeline in Odyssey needed to become.
 
 Stack
-<div align="center"> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=FFFFFF" alt="Rust" /> <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FFFFFF" alt="TypeScript" /> <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF" alt="C++" /> <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF" alt="Python" /> <br /> <img src="https://img.shields.io/badge/Tauri-000000?style=for-the-badge&logo=tauri&logoColor=FFFFFF" alt="Tauri" /> <img src="https://img.shields.io/badge/FFmpeg-000000?style=for-the-badge&logo=ffmpeg&logoColor=FFFFFF" alt="FFmpeg" /> <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=FFFFFF" alt="SQLite" />  </div>
+<div align="center"> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=FFFFFF" alt="Rust" /> <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FFFFFF" alt="TypeScript" /> <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF" alt="C++" /> <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF" alt="Python" /> <br />   </div>
 Away from the keyboard
 Ink Eye - my novel, published on WebNovel. Martial arts, chess, and an unreasonable number of books otherwise.
 
