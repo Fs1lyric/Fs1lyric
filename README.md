@@ -1,4 +1,4 @@
-check out my website: https://fs1lyric.github.io/lyric/
+check out my website: https://fs1lyric.github.io/portfolio/
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Fs1lyric&show_icons=true&hide_title=true&hide_border=true&count_private=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&ring_color=58a6ff" />
