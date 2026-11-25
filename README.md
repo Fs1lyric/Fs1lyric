@@ -1,4 +1,12 @@
-check out my website: https://fs1lyric.github.io/portfolio/
+check out my website: https://fs1lyric.github.io/swag/
+
+**apps you can use**
+- [Calendio](https://calendio-app.netlify.app): the calendar i plan every day in
+- [Flowday](https://flowday-linux.netlify.app): all your tasks, one calm day
+- [SolidCAD](https://solidcad-app.netlify.app): design parts the SolidWorks way, for free
+- [tradedesk](https://tradedesk-desk.netlify.app): news-aware trading assistant
+
+more: [old portfolio](https://fs1lyric.github.io/portfolio/) · [lyric](https://fs1lyric.github.io/lyric/) · [zephyrus studio](https://zephyrus-studio.netlify.app) · [chess.com](https://www.chess.com/member/volksreaders)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Fs1lyric&show_icons=true&hide_title=true&hide_border=true&count_private=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&ring_color=58a6ff" />
